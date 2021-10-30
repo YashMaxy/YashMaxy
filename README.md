@@ -3,10 +3,10 @@
 ### B.Tech Undergraduate student at IIIT Surat, India
 
 - 👀 I’m interested in ...
-    - Machine learning
-    - Computer vision
+    - Machine learning and Computer Vision
+    - Data science
     - Robotics :robot:
-- 🌱 I’m currently learning Deep learning and Computer vision   
+- 🌱 I’m currently learning Deep learning    
 - :white_check_mark: I’m currnetly working on ...
     - Contributing to [Digital-Bacillaria](https://github.com/devoworm/Digital-Bacillaria) project of [Devoworm](https://github.com/devoworm) organisation
     - [Schudle](https://github.com/VARSY5/schudle), A user-friendly web app for managing all online school activities with ease.
